@@ -1,0 +1,57 @@
+
+h1 {
+    text-align: center;
+    color: #80B192;
+    font-weight: 2em;
+}
+.card-title {
+    text-align: center;
+    color: #80B192;
+}
+
+#carousel {
+    margin:auto;
+}
+
+body {
+    background-color: #493548;
+}
+
+.card {
+    margin-left: 5%;
+    background-color: #4B4E6D;
+}
+
+p {
+    color: #A1E887;
+}
+
+.text{
+    font-size: 2em;
+    text-align: center;
+}
+
+.accordion {
+    margin-top: 5%;
+    margin-bottom: 2.5%; 
+}
+.accordion-button {
+    background-color:#4B4E6D;
+    color:#A1E887;
+}
+
+div.accordion-body {
+    background-color: #4B4E6D;
+}
+
+.btn {
+    margin-left: 5%;
+    background-color: #6A8D92;
+    color:#493548;
+}
+
+footer {
+    text-align: center;
+    color: #A1E887;
+    font-size: 1.5em;
+}
