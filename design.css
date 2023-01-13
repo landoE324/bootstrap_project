@@ -23,6 +23,13 @@ body {
     margin-top: 5%;
 }
 
+.card2 {
+    float: right;
+    margin-right: 5%;
+    margin-bottom: 10% ;
+    background-color: #4B4E6D;
+}
+
 p {
     color: #A1E887;
 }
@@ -34,8 +41,9 @@ p {
 }
 
 .accordion {
-    margin-top: 5%;
-    margin-bottom: 2.5%; 
+    margin-top: 21%;
+    margin-bottom: 2.5%;
+    outline-color: #493548; 
 }
 .accordion-button {
     background-color:#4B4E6D;
@@ -56,4 +64,7 @@ footer {
     text-align: center;
     color: #A1E887;
     font-size: 1.5em;
+}
+.accordion-item {
+    background-color: #493548;
 }
